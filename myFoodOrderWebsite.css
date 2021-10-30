@@ -1,0 +1,82 @@
+/*Primary selectors */
+body {
+    background-color: PaleTurquoise;
+	color: #000;
+    font-family: "Times New Roman", Times, serif;
+	font-size: large;
+	
+}
+
+table {
+    width: 500px;
+	border-collapse: collapse;
+	table-collapse: fixed;
+}
+
+td {
+    vertical-align: top;
+	padding: 5px;
+	word-wrap: break-word;
+}
+h1 {
+	color: Olive;
+}
+h2 {
+	color: DarkCyan;
+}
+
+/* IDs and classes */
+
+#fullpage {
+    margin: 100px;
+}
+#table2 {
+	background-color: Thistle;
+}
+#table3 {
+	background-color: Yellow;
+}
+#table4 {
+	background-color: pink;
+}
+#table5 {
+	background-color: violet;
+}
+#table6 {
+	background-color: GreenYellow;
+}
+#text {
+    color:DarkOrchid;
+}	
+#words {
+	color: Fuchsia;
+}
+#Name {
+	margin-left: 300px;
+}
+#image1 {
+	margin-left: 450px;
+}
+.label_col {
+	color: darkgreen;
+    text-align: right;
+}
+
+.input_col {
+    text-align: left;
+}
+
+.feedback_col {
+    text-align: center;
+	vertical-align: middle;
+	color: LightGray;
+	font-size: small;
+}
+.Button {
+	text-align: center;
+	width: 50px;
+	background-color:DarkslateGray;
+}
+#RegistrationConfirm {
+	color:green;
+}
